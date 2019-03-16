@@ -1,0 +1,27 @@
+Time for the creation of C values and RGB for image: 0.234455s
+Time creating PPM file: 8.984683s
+Time for the hole execution: 9.250337s
+
+Time for the creation of C values and RGB for image: 0.222879s
+Time creating PPM file: 9.000629s
+Time for the hole execution: 9.239134s
+
+Time for the creation of C values and RGB for image: 0.227621s
+Time creating PPM file: 9.052685s
+Time for the hole execution: 9.295878s
+
+Time for the creation of C values and RGB for image: 0.250027s
+Time creating PPM file: 9.249679s
+Time for the hole execution: 9.530960s
+
+Time for the creation of C values and RGB for image: 0.223027s
+Time creating PPM file: 10.212679s
+Time for the hole execution: 11.67960s
+
+Time for the creation of C values and RGB for image: 0.213027s
+Time creating PPM file: 8.311679s
+Time for the hole execution: 8.97960s
+
+Time for the creation of C values and RGB for image: 0.243027s
+Time creating PPM file: 8.711679s
+Time for the hole execution: 9.47960s
